@@ -1,0 +1,6 @@
+{
+  "name": "منصة اختبارات البرمجة بلغة C++ (برمجة 1)",
+  "description": "منصة تعليمية تفاعلية لاختبارات ومراجعة مقرر برمجة 1 بلغة C++ مع بنك أسئلة شامل يضم 100 سؤال بنظام التدريب الفوري والاختبار النصفي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
